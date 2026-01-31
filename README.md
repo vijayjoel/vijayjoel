@@ -35,15 +35,14 @@
 ### ⚙️ Other Tools  
 - Git & GitHub  
 - VS Code  
-- Postman  
+- cursor 
 
 ---
 
 ## 📌 Projects  
 🚧 *Some of my projects:*  
 - Full Stack Web Applications  
-- CRUD Apps  
-- Authentication Systems  
+- CRUD Apps   
 - API-based Projects  
 
 (Updating regularly with new projects!)
