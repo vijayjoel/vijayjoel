@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**vijayjoel/vijayjoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Final-Year Electronics and Communication Engineering student** at **IIITDM Kancheepuram**, passionate about **VLSI design** and **digital systems**.  
+My core expertise lies in **RTL design using Verilog/SystemVerilog**, **digital electronics**, and **hardware-software integration**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 What I Do
+- **Design & Implementation** – VLSI and digital system design, RTL coding (Verilog/SystemVerilog), FPGA-based designs.
+- **Learning & Exploration** – ASIC frontend design, SoC architecture, Design for Testability (DFT), and low-power techniques.
+- **Collaboration** – Open-source hardware design, RTL design challenges, and digital logic-based projects.
+
+---
+
+## 📌 Current Focus
+- ASIC design flow and frontend implementation
+- Advanced RTL architecture and low-power methodologies
+- System-level hardware design and optimization
+
+---
+
+## 🛠 Technical Skills
+**Languages & HDL:** Verilog, SystemVerilog, C, Python, MATLAB  
+**EDA & Tools:** ModelSim, Xilinx Vivado
