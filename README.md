@@ -1,5 +1,5 @@
 # 💫 About Me
-# 👋 Hi, I'm Vijay Joel  
+# 👋 Hi, I'm Vijay  
 
 🎓 ECE Student at **IIITDM Kancheepuram**  
 💻 Full Stack Web Developer  
@@ -58,9 +58,9 @@
 ---
 
 ## 📫 Connect With Me  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: yourmail@gmail.com  
+- GitHub: https://github.com/vijayjoel 
+- LinkedIn: https://linkedin.com/ 
+- Email: vijayjoel101@gmail.com  
 
 ---
 
