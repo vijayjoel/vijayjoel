@@ -66,28 +66,3 @@
 
 ## ⚡ Fun Fact  
 ECE by degree, Developer by passion 😄  
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-
----
-
-## 🔹 What I Do
-- **Design & Implementation** – VLSI and digital system design, RTL coding (Verilog/SystemVerilog), FPGA-based designs.
-- **Learning & Exploration** – ASIC frontend design, SoC architecture, Design for Testability (DFT), and low-power techniques.
-- **Collaboration** – Open-source hardware design, RTL design challenges, and digital logic-based projects.
-
----
-
-## 📌 Current Focus
-- ASIC design flow and frontend implementation
-- Advanced RTL architecture and low-power methodologies
-- System-level hardware design and optimization
-
----
-
-## 🛠 Technical Skills
-**Languages & HDL:** Verilog, SystemVerilog, C, Python, MATLAB  
-**EDA & Tools:** ModelSim, Xilinx Vivado
